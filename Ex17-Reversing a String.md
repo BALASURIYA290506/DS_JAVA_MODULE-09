@@ -16,7 +16,7 @@ To write a Java program that reverses an input string using a stack, without usi
 10. End the program.   
 
 ## Program:
-```
+```java
 
 Program to reverses an input string using a stack
 
