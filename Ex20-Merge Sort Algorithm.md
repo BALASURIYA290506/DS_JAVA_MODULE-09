@@ -15,7 +15,7 @@ To design a program that sorts a given array of integers in ascending order with
 10. End the program.  
 
 ## Program:
-```
+```java
 
 Program tosorts a given array of integers in ascending order without using built-in sorting functions
 
